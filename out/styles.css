@@ -1,0 +1,18 @@
+h2.header {
+  color: green;
+}
+.header-wrapper {
+  border: 8px red solid;
+}
+.header-wrapper .header-content {
+  color: blue;
+  height: 200px;
+  width: 400px;
+  background: url("header/img/phone.jpg") center no-repeat blue;
+}
+h2.content {
+  color: black;
+}
+h2.footer {
+  color: blue;
+}
